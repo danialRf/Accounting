@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f56dce59-4b60-4dcc-b530-729711db9c6b": {
+      "ProjectGuid": "f56dce59-4b60-4dcc-b530-729711db9c6b",
+      "DisplayName": "Accounting",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
