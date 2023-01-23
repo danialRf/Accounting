@@ -9,7 +9,13 @@ namespace Accounting.DataLayer.Services
 {
     public class CustomersRepository : ICustomerRepositories
     {
-        Accounting_DBEntities db = new Accounting_DBEntities();
+        private Accounting_DBEntities db;
+
+        public CustomersRepository(Accounting_DBEntities contex)
+        {
+            db = contex;
+        }
+
         public bool DeleteCustomer(Customers customer)
         {
             try
