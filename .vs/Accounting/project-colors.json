@@ -5,7 +5,32 @@
       "ProjectGuid": "f56dce59-4b60-4dcc-b530-729711db9c6b",
       "DisplayName": "Accounting",
       "ColorIndex": 0
+    },
+    "21d36ac0-be98-4aa0-8395-3fdf27c47f39": {
+      "ProjectGuid": "21d36ac0-be98-4aa0-8395-3fdf27c47f39",
+      "DisplayName": "Accounting.App",
+      "ColorIndex": 1
+    },
+    "0fc590d8-d62e-47d5-83ad-c775a264d16a": {
+      "ProjectGuid": "0fc590d8-d62e-47d5-83ad-c775a264d16a",
+      "DisplayName": "Accounting.DataLayer",
+      "ColorIndex": 2
+    },
+    "28cfe66d-f264-4c1c-ad5b-3b592a98290e": {
+      "ProjectGuid": "28cfe66d-f264-4c1c-ad5b-3b592a98290e",
+      "DisplayName": "Accounting.ViewModels",
+      "ColorIndex": 3
+    },
+    "99ccb95c-2296-491f-928d-80bcb2c17c9f": {
+      "ProjectGuid": "99ccb95c-2296-491f-928d-80bcb2c17c9f",
+      "DisplayName": "Accounting.Bussiness",
+      "ColorIndex": 4
+    },
+    "d71fc044-0162-444c-a930-16b96c8ee3bc": {
+      "ProjectGuid": "d71fc044-0162-444c-a930-16b96c8ee3bc",
+      "DisplayName": "Accounting.Utilities",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 6
 }

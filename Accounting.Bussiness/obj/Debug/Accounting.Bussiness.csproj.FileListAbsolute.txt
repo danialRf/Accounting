@@ -1,0 +1,6 @@
+E:\Coding\c#\Accounting\Accounting.Bussiness\bin\Debug\Accounting.Bussiness.dll
+E:\Coding\c#\Accounting\Accounting.Bussiness\bin\Debug\Accounting.Bussiness.pdb
+E:\Coding\c#\Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.csproj.AssemblyReference.cache
+E:\Coding\c#\Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.csproj.CoreCompileInputs.cache
+E:\Coding\c#\Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.dll
+E:\Coding\c#\Accounting\Accounting.Bussiness\obj\Debug\Accounting.Bussiness.pdb
