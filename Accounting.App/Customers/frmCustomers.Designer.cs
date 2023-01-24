@@ -29,11 +29,11 @@
         private void InitializeComponent()
         {
             this.toolStrip1 = new System.Windows.Forms.ToolStrip();
-            this.txtfilter = new System.Windows.Forms.ToolStripTextBox();
             this.btnAddNewCustomer = new System.Windows.Forms.ToolStripButton();
             this.btnEditCustomer = new System.Windows.Forms.ToolStripButton();
             this.btnDeleteCustomer = new System.Windows.Forms.ToolStripButton();
             this.btnRefreshCustomer = new System.Windows.Forms.ToolStripButton();
+            this.txtfilter = new System.Windows.Forms.ToolStripTextBox();
             this.txtsearch = new System.Windows.Forms.ToolStripLabel();
             this.dgvCustomers = new System.Windows.Forms.DataGridView();
             this.CustomerID = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -60,14 +60,6 @@
             this.toolStrip1.TabIndex = 0;
             this.toolStrip1.Text = "toolStrip1";
             // 
-            // txtfilter
-            // 
-            this.txtfilter.Font = new System.Drawing.Font("Segoe UI", 9F);
-            this.txtfilter.Name = "txtfilter";
-            this.txtfilter.Size = new System.Drawing.Size(100, 51);
-            this.txtfilter.Click += new System.EventHandler(this.txtfilter_Click);
-            this.txtfilter.TextChanged += new System.EventHandler(this.txtfilter_TextChanged);
-            // 
             // btnAddNewCustomer
             // 
             this.btnAddNewCustomer.Image = global::Accounting.App.Properties.Resources.icons8_plus_24;
@@ -77,6 +69,7 @@
             this.btnAddNewCustomer.Size = new System.Drawing.Size(41, 48);
             this.btnAddNewCustomer.Text = "Add";
             this.btnAddNewCustomer.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
+            this.btnAddNewCustomer.Click += new System.EventHandler(this.btnAddNewCustomer_Click);
             // 
             // btnEditCustomer
             // 
@@ -98,15 +91,25 @@
             this.btnDeleteCustomer.Size = new System.Drawing.Size(57, 48);
             this.btnDeleteCustomer.Text = "Delete";
             this.btnDeleteCustomer.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
+            this.btnDeleteCustomer.Click += new System.EventHandler(this.btnDeleteCustomer_Click);
             // 
             // btnRefreshCustomer
             // 
             this.btnRefreshCustomer.Image = global::Accounting.App.Properties.Resources.icons8_rotate_right_24;
             this.btnRefreshCustomer.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.btnRefreshCustomer.Name = "btnRefreshCustomer";
-            this.btnRefreshCustomer.Size = new System.Drawing.Size(82, 48);
+            this.btnRefreshCustomer.Size = new System.Drawing.Size(62, 48);
             this.btnRefreshCustomer.Text = "Refresh";
+            this.btnRefreshCustomer.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.btnRefreshCustomer.Click += new System.EventHandler(this.btnRefreshCustomer_Click);
+            // 
+            // txtfilter
+            // 
+            this.txtfilter.Font = new System.Drawing.Font("Segoe UI", 9F);
+            this.txtfilter.Name = "txtfilter";
+            this.txtfilter.Size = new System.Drawing.Size(100, 51);
+            this.txtfilter.Click += new System.EventHandler(this.txtfilter_Click);
+            this.txtfilter.TextChanged += new System.EventHandler(this.txtfilter_TextChanged);
             // 
             // txtsearch
             // 

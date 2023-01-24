@@ -18,3 +18,4 @@ E:\Coding\c#\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll.config
 E:\Coding\c#\Accounting\Accounting.App\bin\Debug\EntityFramework.xml
 E:\Coding\c#\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.xml
 E:\Coding\c#\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CopyComplete
+E:\Coding\c#\Accounting\Accounting.App\obj\Debug\Accounting.App.Customers.frmAddOrEdit.resources
