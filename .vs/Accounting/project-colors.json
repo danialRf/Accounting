@@ -30,7 +30,12 @@
       "ProjectGuid": "d71fc044-0162-444c-a930-16b96c8ee3bc",
       "DisplayName": "Accounting.Utilities",
       "ColorIndex": 5
+    },
+    "804a665e-313d-4730-8833-b89d2e1ded3b": {
+      "ProjectGuid": "804a665e-313d-4730-8833-b89d2e1ded3b",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 6
+  "NextColorIndex": 7
 }

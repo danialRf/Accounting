@@ -8,3 +8,13 @@ E:\Coding\c#\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.GenerateR
 E:\Coding\c#\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CoreCompileInputs.cache
 E:\Coding\c#\Accounting\Accounting.App\obj\Debug\Accounting.App.exe
 E:\Coding\c#\Accounting\Accounting.App\obj\Debug\Accounting.App.pdb
+E:\Coding\c#\Accounting\Accounting.App\obj\Debug\Accounting.App.Form1.resources
+E:\Coding\c#\Accounting\Accounting.App\obj\Debug\Accounting.App.frmCustomers.resources
+E:\Coding\c#\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll
+E:\Coding\c#\Accounting\Accounting.App\bin\Debug\EntityFramework.dll
+E:\Coding\c#\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.dll
+E:\Coding\c#\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.pdb
+E:\Coding\c#\Accounting\Accounting.App\bin\Debug\Accounting.DataLayer.dll.config
+E:\Coding\c#\Accounting\Accounting.App\bin\Debug\EntityFramework.xml
+E:\Coding\c#\Accounting\Accounting.App\bin\Debug\EntityFramework.SqlServer.xml
+E:\Coding\c#\Accounting\Accounting.App\obj\Debug\Accounting.App.csproj.CopyComplete
